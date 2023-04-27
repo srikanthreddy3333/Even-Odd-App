@@ -1,0 +1,29 @@
+.bg-container {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.count {
+  color: #0f172a;
+  font-size: 50px;
+}
+.number-category {
+  color: #334155;
+  font-size: 25px;
+}
+.button {
+  color: #1e293b;
+  font-size: 12px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  border: none;
+  padding: 8px 32px;
+}
+
+.note {
+  color: #334155;
+  font-size: 15px;
+}
